@@ -58,5 +58,5 @@ The project consists of the following files:
 
 - `index.html`: The main HTML file containing the content of the article and the basic structure of the webpage.
 - `style.css` : A CSS file providing styles for the HTML content to enhance the UI/UX.
-- `README.md`:
+- `README.md` :The readme file containing information about the project.
 
